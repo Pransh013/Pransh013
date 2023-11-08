@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **Java, DSA, JavaScript, ReactJS, Figma**
+- 💬 Ask me about **Java, DSA, HTML, CSS, JavaScript, ReactJS, Figma**
 
 - 📫 How to reach me **pranshuverma1601@gmail.com**
 
