@@ -186,13 +186,13 @@
       <img
         align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Pransh013&show_icons=true&locale=en&layout=compact"
-        alt="pransh013"
+        alt="Pransh013"
       />
     </p>
     <p>
       <img
         align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Pransh013&"
-        alt="pransh013"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Pransh013"
+        alt="Pransh013"
       />
     </p>
