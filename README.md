@@ -63,11 +63,11 @@
           height="30"
           width="30"
       /></a>
-      <a href="https://www.leetcode.com/pransh013" target="_blank"
+      <a href="https://www.leetcode.com/Pransh13" target="_blank"
         ><img
           align="center"
           src="https://leetcode.com/static/images/LeetCode_logo.png"
-          alt="pransh013"
+          alt="Pransh13"
           height="33"
           width="32"
       /></a>
