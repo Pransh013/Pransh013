@@ -94,8 +94,8 @@
         <img
           src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"
           alt="html5"
-          width="40"
-          height="40"
+          width="39"
+          height="38"
         />
       </a>
       <a href="https://www.w3schools.com/Css/" target="_blank" rel="noreferrer">
