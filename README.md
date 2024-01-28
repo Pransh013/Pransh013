@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ExpressJS**
 
-- 💬 Ask me about **Java, DSA, HTML, CSS, JavaScript, ReactJS, Figma**
+- 💬 Ask me about **Java, DSA, HTML, CSS, JavaScript, TypeScript, ReactJS**
 
 - 📫 How to reach me **pranshuverma1601@gmail.com**
 
