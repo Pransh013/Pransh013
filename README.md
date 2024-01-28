@@ -154,7 +154,7 @@
       </a>
       <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img
-          src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"
+          src="https://www.zillionsoftech.com/img/icon/express.js.png"
           alt="express"
           width="40"
           height="40"
