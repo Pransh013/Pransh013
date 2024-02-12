@@ -1,201 +1,41 @@
-<h1 align="center">Hi 👋, I'm Pranshu Verma</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/></p>
+<h1 align="center">Hi <img src="https://camo.githubusercontent.com/2a873cbacb080b0ff4cfad981480b78921acea9e038a80e81ea95657a4da554f/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035" width="30px" height="30px">, I am Pranshu Verma </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pransh013&label=Profile%20views&color=0e75b6&style=flat" alt="pransh013" /> </p>
+**<p align="center" width="150px"> I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.</p>**
 
-<p align="left"> <a href="https://twitter.com/pranshu98865108" target="blank"><img src="https://img.shields.io/twitter/follow/pranshu98865108?logo=twitter&style=for-the-badge" alt="pranshu98865108" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pransh013&label=Profile%20views&color=0e75b6&style=flat" alt="pransh013" /></p>
 
 - 🌱 I’m currently learning **ExpressJS**
 
-- 💬 Ask me about **Java, DSA, HTML, CSS, JavaScript, TypeScript, ReactJS**
+- 💬 Ask me about **Java, DSA, HTML, CSS, JavaScript, ReactJS**   
 
-- 📫 How to reach me **pranshuverma1601@gmail.com**
+<hr>
+<br>
 
-<h3 align="left">Connect with me : </h3>
-    <p align="left">
-      <a href="https://twitter.com/pranshu98865108" target="_blank"
-        ><img
-          align="center"
-          src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"
-          alt="pranshu98865108"
-          height="30"
-          width="35"
-      /></a>
-      <a
-        href="https://www.linkedin.com/in/pranshu-verma-9oo1b/"
-        target="_blank"
-        ><img
-          align="center"
-          src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
-          alt="https://www.linkedin.com/in/pranshu-verma-9oo1b/"
-          height="30"
-          width="35"
-      /></a>
-      <a href="https://instagram.com/pransh.jsx" target="_blank"
-        ><img
-          align="center"
-          src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"
-          alt="pransh.jsx"
-          height="33"
-          width="33"
-      /></a>
-      <a href="https://www.codechef.com/users/pranshu013" target="_blank"
-        ><img
-          align="center"
-          src="https://s3.amazonaws.com/discourseproduction/original/1X/ba28115bd3d5badf6cce0eb175d5875dadee3b12.png"
-          alt="pranshu013"
-          height="35"
-          width="35"
-      /></a>
-      <a href="https://www.hackerrank.com/pranshuverma1601" target="_blank"
-        ><img
-          align="center"
-          src="https://th.bing.com/th/id/OIP.pY8O2C_T47berB4eU-qZ5AHaHa?w=180&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
-          alt="pranshuverma1601"
-          height="30"
-          width="40"
-      /></a>
-      <a href="https://codeforces.com/profile/pransh013" target="_blank"
-        ><img
-          align="center"
-          src="https://th.bing.com/th/id/OIP.wU7wRoHVBzpDVhpXqYSL5wAAAA?w=170&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
-          alt="pransh013"
-          height="30"
-          width="30"
-      /></a>
-      <a href="https://www.leetcode.com/Pransh13" target="_blank"
-        ><img
-          align="center"
-          src="https://leetcode.com/static/images/LeetCode_logo.png"
-          alt="Pransh13"
-          height="33"
-          width="32"
-      /></a>
-      <a href="https://www.hackerearth.com/@pranshuverma1601" target="_blank"
-        ><img
-          align="center"
-          src="https://avatars2.githubusercontent.com/u/3033794?s=200&v=4"
-          alt="@pranshuverma1601"
-          height="32"
-          width="32"
-      /></a>
-    </p>
-    <h3 align="left">Languages and Tools : </h3>
-    <p align="left">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/java/java-icon.svg"
-          alt="java"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"
-          alt="html5"
-          width="39"
-          height="38"
-        />
-      </a>
-      <a href="https://www.w3schools.com/Css/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"
-          alt="css"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/javascript-logo.png"
-          alt="javascript"
-          width="45"
-          height="35"
-        />
-      </a>
-        <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
-          alt="typescript"
-          width="45"
-          height="35"
-        />
-      </a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
-          alt="react"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-          alt="tailwind"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
-          alt="nodejs"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.zillionsoftech.com/img/icon/express.js.png"
-          alt="express"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
-          alt="mongodb"
-          width="40"
-          height="40"
-        />
-      </a>
-      <!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"
-          alt="mysql"
-          width="40"
-          height="40"
-        />
-      </a> -->
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-          alt="git"
-          width="40"
-          height="40"
-        />
-      </a>
-    </p>
-    <p>
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=Pransh013&show_icons=true&locale=en&layout=compact"
-        alt="Pransh013"
-      />
-    </p>
-    <p>
-      <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Pransh013"
-        alt="Pransh013"
-      />
-    </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pransh013&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Pransh013&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pransh013&theme=chartreuse-dark"></p>
+
+### 🛠 &nbsp;Tech Stack
+
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white&color=05122A&labelColor=05122A)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC)&nbsp;
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white&color=05122A&labelColor=05122A)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&color=05122A&labelColor=05122A)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white&color=05122A&labelColor=05122A)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+
+### :link: &nbsp;Connect with me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/pranshu-verma-89945729a/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/pranshu98865108"><img src="https://img.shields.io/badge/-Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="mailto:pranshuverma1601@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+</p>
