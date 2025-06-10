@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pransh013&label=Profile%20views&color=0e75b6&style=flat" alt="pransh013" /></p>
 
-- 🌱 I’m currently learning **PostgreSQL**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **Java, DSA, HTML, CSS, JavaScript, ReactJS**   
 - <a href="https://pransh-portfolio.vercel.app/">My PortFolio</a>
